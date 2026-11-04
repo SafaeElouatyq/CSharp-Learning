@@ -1,4 +1,5 @@
-﻿Random r = new Random();
+﻿
+Random r = new Random();
 bool playAgain = true;
 String player;
 String computer;
@@ -83,7 +84,6 @@ while (playAgain)
             {
                 Console.WriteLine("you win");
             }
-            else if (computer == "SCISSORS")
             {
                 Console.WriteLine("it is a draw");
             }
