@@ -89,8 +89,6 @@ while (playAgain)
             }
             break;
 
-        default:
-            Console.WriteLine("Invalid input");
             break;
 
     }

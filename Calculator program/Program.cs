@@ -18,25 +18,25 @@ operation = Console.ReadLine();
 switch (operation) {
     case "+":
         result = num1 + num2;
-        Console.WriteLine("the Result is: "+num1 +" "+operation +" "+ num2 +" = " + result);
+        Console.WriteLine("Result : "+num1 +" "+operation +" "+ num2 +" = " + result);
 
         Console.WriteLine("------------------------");
     break;
     case "-":
         result = num1 - num2;
-        Console.WriteLine("the Result is: "  + result);
+        Console.WriteLine("Result : " + num1 + " " + operation + " " + num2 + " = " + result);
 
         Console.WriteLine("------------------------");
         break;
     case "*":
         result = num1 * num2;
-        Console.WriteLine("the Result is: " + result);
+        Console.WriteLine("Result : " + num1 + " " + operation + " " + num2 + " = " + result);
 
         Console.WriteLine("------------------------");
         break;
     case "/":
         result = num1 / num2;
-        Console.WriteLine("the Result is: " + result);
+        Console.WriteLine("Result : " + num1 + " " + operation + " " + num2 + " = " + result);
 
         Console.WriteLine("------------------------");
         break;
@@ -45,5 +45,3 @@ switch (operation) {
         Console.WriteLine("Invalid operation");
         break;
 }
-
-
