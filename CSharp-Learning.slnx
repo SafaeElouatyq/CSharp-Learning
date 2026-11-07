@@ -2,5 +2,6 @@
   <Project Path="Calculator program/Calculator program.csproj" Id="41c7a71c-d295-4da2-af8d-15ff2f6d3f31" />
   <Project Path="Methods/Methods.csproj" Id="36457216-e7f6-432d-9c92-f649c6fcf522" />
   <Project Path="NumberGuessingGame/NumberGuessingGame.csproj" />
+  <Project Path="OOP/OOP.csproj" Id="6c45dbeb-0485-4113-b1f6-898fb06fe27e" />
   <Project Path="RockPaperScissors/RockPaperScissors.csproj" />
 </Solution>
